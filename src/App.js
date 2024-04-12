@@ -39,8 +39,7 @@ function App() {
  useEffect(() => { 
     // fetchData();
     findUser()
-
-   console.log("current user id is : fucking...",localStorage.getItem('currentId'))
+ 
  
   },[])
   
